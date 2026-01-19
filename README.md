@@ -3,9 +3,7 @@ This project is a Python arcade-style game inspired by the classic Frogger, buil
 
 How the Game Works
 
-The player uses the Up Arrow key to move the turtle upward.
-
-Cars continuously spawn and move horizontally across the screen.
+The player uses the Up Arrow key to move the turtle upward which moves the car
 
 If the turtle collides with a car, the game ends.
 
